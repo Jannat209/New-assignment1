@@ -27,6 +27,7 @@ h1 {
 
 .width {
     padding-right: 10%;
+    padding-top: 4%;
 }
 
 .padd1 {
@@ -39,4 +40,8 @@ h1 {
     color: white;
     font-weight: 700;
     border-radius: 5px;
+}
+
+.size1 {
+    font-size: 20px;
 }
