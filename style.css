@@ -1,0 +1,42 @@
+.lightpink {
+    color: lightpink;
+}
+
+body {
+    font-family: 'PT Serif', serif;
+    margin-top: 10%;
+    margin-left: 7%;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.straight-line {
+
+    border-left: 2px solid powderblue;
+    border-width: 10px;
+    border-radius: 10px;
+    line-height: 1cm;
+}
+
+.flex {
+    display: flex;
+
+}
+
+.width {
+    padding-right: 10%;
+}
+
+.padd1 {
+    padding-right: 30%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(255, 209, 217), rgb(188, 192, 246));
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
