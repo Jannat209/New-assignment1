@@ -45,3 +45,27 @@ h1 {
 .size1 {
     font-size: 20px;
 }
+
+.year {
+    color: lightpink;
+}
+
+.centre {
+    text-align: center;
+}
+
+#box1 {
+    background-color: rgb(199, 199, 215);
+    margin-right: 1cm;
+}
+
+#box2 {
+    background-color: rgb(247, 228, 217);
+    margin-right: 1cm;
+}
+
+#box3 {
+    background-color: rgb(228, 183, 249);
+    margin-right: 7%;
+
+}
