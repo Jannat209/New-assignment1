@@ -158,12 +158,23 @@ h1 {
 }
 
 .banner3 {
-    background-image: url(shape-3.png);
-    background-size: 10% 25%;
-    background-position: left 13em top 65px;
-    background-repeat: no-repeat;
+    background-image: url(shape-3.png), url(Untitled.png), url(Untitled1.png);
+    background-size: 10% 25%,
+        25% 70%, 25% 65%;
+    background-position: left 13em top 65px,
+        left 22em top 280px, left 9em top 300px;
+    background-repeat: no-repeat, no-repeat, no-repeat;
 }
 
-.banner4 {
-    background-image: url(shape-3 - Copy.png);
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 3cm;
+    padding-top: 0.3cm;
+    line-height: 0.5cm;
+}
+
+.fontt {
+    font-size: 12px;
 }
